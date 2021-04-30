@@ -1,4 +1,4 @@
-#Anagram Application
+#  Anagram Application
 
 This simple application to identify anagarms of a given word was developed as a part of course work at my university.
 The dictionary.py folder will convert the words.csv to a python list. 
