@@ -1,4 +1,3 @@
-import pandas as pd
 words = []
 with open("words.csv") as file:
     file = file.readlines()
